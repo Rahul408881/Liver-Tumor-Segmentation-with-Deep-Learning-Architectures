@@ -1,5 +1,8 @@
 # 🧠 Liver Tumor Segmentation with Deep Learning Architectures
 
+<img width="1024" height="768" alt="liver" src="https://github.com/user-attachments/assets/8e3bc91a-1c3b-4580-a859-588725c7274c" />
+
+
 This repository contains my project on **automatic liver tumor segmentation** from CT scans using deep learning.  
 The study compares **U-Net** and **ResNet50** architectures for accurate segmentation of liver tumors, leveraging  
 loss functions like **Tversky Loss** and evaluation metrics such as **Dice Coefficient, Jaccard Index, and Accuracy**.
